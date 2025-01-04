@@ -1,1 +1,3 @@
 # Artificial-Intelligence-1
+
+"In this repository, I upload the projects and assignments I completed during my 3rd semester at Aror University of Art, Architecture, Design & Heritage, as part of the BS (Artificial Intelligence) program. The work encompasses various aspects of Artificial Intelligence, including Python programming, data analysis with Pandas and NumPy, machine learning, deep learning using TensorFlow and Keras and natural language processing with libraries like NLTK and Spacy. These artifacts demonstrate my progression and understanding of AI fundamentals through practical and theoretical applications."
