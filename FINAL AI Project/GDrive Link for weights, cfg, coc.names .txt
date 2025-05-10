@@ -1,0 +1,1 @@
+GDrive Link of yolov4.weights, yolov4.cfg and coco.names: https://drive.google.com/drive/folders/110SP-3zW7gK1QNxPdJ76dn1qcAtM8ePi?usp=sharing
